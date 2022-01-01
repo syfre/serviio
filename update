@@ -1,0 +1,1 @@
+sudo java -classpath ./:/usr/share/java/derby.jar UpdateServiio
